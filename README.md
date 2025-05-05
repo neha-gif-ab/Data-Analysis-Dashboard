@@ -24,6 +24,9 @@ The objective of the Zomato Analysis Dashboard is to analyze restaurant data to 
 8.Percentage of Resturants based on "Has_Online_delivery"
 9. Develop Charts based on Cusines, City, Ratings
 Dasboard Interction <a href="https://github.com/neha-gif-ab/Data-Analysis-Dashboard/blob/main/Screenshot%20(50).png">View Dashboard</a>
+## Dashboard
+![Screenshot (50)](https://github.com/user-attachments/assets/368f4bcb-ce0e-453b-8c6e-4445e98a1e7a)
+
 ## Project Insights
 The Zomato analysis highlights key trends in customer preferences and restaurant performance. Popular cuisines like North Indian and Chinese, along with mid-range pricing, tend to attract better ratings. High-density areas like Koramangala show intense competition, making location and unique offerings crucial. These insights can help improve business decisions and visibility on the Zomato platform.
 ## Final Conclusion
