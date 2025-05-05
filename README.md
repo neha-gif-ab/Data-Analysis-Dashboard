@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I'm passionate about data analysis and love turning raw data into meaningful insights. My work involves data cleaning, exploration, statistical analysis, and creating visualizations using tools like Python, SQL, Excel, and Power BI. I enjoy working with real-world datasets to uncover trends, solve problems, and support data-driven decisions.
+# Zomato-Data-Analysis(Interactive Dashboard creation using Power Bi)
+## Project Objective
+The objective of the Zomato Analysis Dashboard is to analyze restaurant data to uncover trends in customer preferences, restaurant performance, cuisine popularity, and location-based insights. This helps stakeholders make data-driven decisions to improve customer experience, optimize restaurant listings, and enhance overall business strategy.
