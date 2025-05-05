@@ -23,3 +23,4 @@ The objective of the Zomato Analysis Dashboard is to analyze restaurant data to 
 7.Percentage of Resturants based on "Has_Table_booking"
 8.Percentage of Resturants based on "Has_Online_delivery"
 9. Develop Charts based on Cusines, City, Ratings
+Dasboard Interction <a href="https://github.com/neha-gif-ab/Data-Analysis-Dashboard/blob/main/Screenshot%20(50).png">View Dashboard</a>
