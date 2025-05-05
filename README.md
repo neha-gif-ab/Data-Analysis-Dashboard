@@ -5,7 +5,7 @@ The objective of the Zomato Analysis Dashboard is to analyze restaurant data to 
 
 ## Questions(KPIs)
 1.Build a country Map Table
-2. Build a Calendar Table using the Column Datekey
+      2. Build a Calendar Table using the Column Datekey
   Add all the below Columns in the Calendar Table using the Formulas.
    A.Year
    B.Monthno
